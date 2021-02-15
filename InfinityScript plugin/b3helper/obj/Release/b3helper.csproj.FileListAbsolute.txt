@@ -1,0 +1,7 @@
+C:\Users\Swifty\Source\Repos\b3-Extension\InfinityScript plugin\b3helper\bin\Release\b3extension.dll
+C:\Users\Swifty\Source\Repos\b3-Extension\InfinityScript plugin\b3helper\bin\Release\b3extension.pdb
+C:\Users\Swifty\Source\Repos\b3-Extension\InfinityScript plugin\b3helper\bin\Release\InfinityScript.dll
+C:\Users\Swifty\Source\Repos\b3-Extension\InfinityScript plugin\b3helper\obj\Release\b3helper.csproj.CoreCompileInputs.cache
+C:\Users\Swifty\Source\Repos\b3-Extension\InfinityScript plugin\b3helper\obj\Release\b3helper.csproj.CopyComplete
+C:\Users\Swifty\Source\Repos\b3-Extension\InfinityScript plugin\b3helper\obj\Release\b3extension.dll
+C:\Users\Swifty\Source\Repos\b3-Extension\InfinityScript plugin\b3helper\obj\Release\b3extension.pdb
